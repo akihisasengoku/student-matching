@@ -16,4 +16,3 @@
 //= require jquery
 //= require materialize-sprockets
 //= require materialize-form
-//= require remodal
