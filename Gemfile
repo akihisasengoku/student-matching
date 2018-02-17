@@ -36,7 +36,8 @@ gem 'jquery-rails'
 gem 'materialize-sass'
 gem 'simple_form'
 gem 'materialize-form'
-
+gem 'bootstrap-sass'
+gem "font-awesome-rails"
 
 
 group :development, :test do
